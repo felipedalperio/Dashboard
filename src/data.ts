@@ -118,49 +118,49 @@ export const menu = [
 export const topDealUsers = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     username: "Elva McDonald",
     email: "elva@gmail.com",
     amount: "3.668",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     username: "Linnie Nelson",
     email: "linnie@gmail.com",
     amount: "3.256",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/8811728/pexels-photo-8811728.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     username: "Brent Reeves",
     email: "brent@gmail.com",
     amount: "2.998",
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/8813081/pexels-photo-8813081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     username: "Adeline Watson",
     email: "adeline@gmail.com",
     amount: "2.512",
   },
   {
     id: 5,
-    img: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
     username: "Juan Harrington",
     email: "juan@gmail.com",
     amount: "2.134",
   },
   {
     id: 6,
-    img: "https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/9809412/pexels-photo-9809412.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     username: "Augusta McGee",
     email: "augusta@gmail.com",
     amount: "1.932",
   },
   {
     id: 7,
-    img: "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/9409823/pexels-photo-9409823.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     username: "Angel Thomas",
     email: "angel@gmail.com",
     amount: "1.560",
@@ -312,7 +312,7 @@ export const barChartBoxVisit = {
 export const userRows = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "https://images.pexels.com/photos/9294484/pexels-photo-9294484.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
     lastName: "Hubbard",
     firstName: "Eula",
     email: "kewez@@gmail.com",
@@ -322,7 +322,7 @@ export const userRows = [
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/3813055/pexels-photo-3813055.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Manning",
     firstName: "Stella",
     email: "comhuhmit@gmail.com",
@@ -332,7 +332,7 @@ export const userRows = [
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/4066014/pexels-photo-4066014.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Greer",
     firstName: "Mary",
     email: "ujudokon@hottmail.com",
@@ -342,7 +342,7 @@ export const userRows = [
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/871495/pexels-photo-871495.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/9629995/pexels-photo-9629995.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Williamson",
     firstName: "Mildred",
     email: "tinhavabe@gmail.com",
@@ -352,7 +352,7 @@ export const userRows = [
   },
   {
     id: 5,
-    img: "https://images.pexels.com/photos/1758144/pexels-photo-1758144.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/6014160/pexels-photo-6014160.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Gross",
     firstName: "Jose",
     email: "gobtagbes@yahoo.com",
@@ -361,7 +361,7 @@ export const userRows = [
   },
   {
     id: 6,
-    img: "https://images.pexels.com/photos/769745/pexels-photo-769745.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/5732302/pexels-photo-5732302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Sharp",
     firstName: "Jeremy",
     email: "vulca.eder@mail.com",
@@ -371,7 +371,7 @@ export const userRows = [
   },
   {
     id: 7,
-    img: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Lowe",
     firstName: "Christina",
     email: "reso.bilic@gmail.com",
@@ -380,7 +380,7 @@ export const userRows = [
   },
   {
     id: 8,
-    img: "https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/15855259/pexels-photo-15855259/free-photo-of-animal-bicho-cachorro-cao.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Dean",
     firstName: "Garrett",
     email: "codaic@mail.com",
@@ -390,7 +390,7 @@ export const userRows = [
   },
   {
     id: 9,
-    img: "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/1629781/pexels-photo-1629781.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Parsons",
     firstName: "Leah",
     email: "uzozor@gmail.com",
@@ -399,7 +399,7 @@ export const userRows = [
   },
   {
     id: 10,
-    img: "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/3361739/pexels-photo-3361739.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Reid",
     firstName: "Elnora",
     email: "tuhkabapu@gmail.com",
@@ -409,7 +409,7 @@ export const userRows = [
   },
   {
     id: 11,
-    img: "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/2171583/pexels-photo-2171583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Dunn",
     firstName: "Gertrude",
     email: "gibo@gmail.com",
@@ -419,7 +419,7 @@ export const userRows = [
   },
   {
     id: 12,
-    img: "https://images.pexels.com/photos/774095/pexels-photo-774095.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/4587998/pexels-photo-4587998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Williams",
     firstName: "Mark",
     email: "tic.harvey@hotmail.com",
@@ -428,7 +428,7 @@ export const userRows = [
   },
   {
     id: 13,
-    img: "https://images.pexels.com/photos/761977/pexels-photo-761977.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/4061389/pexels-photo-4061389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Cruz",
     firstName: "Charlotte",
     email: "ceuc@gmail.com",
@@ -437,7 +437,7 @@ export const userRows = [
   },
   {
     id: 14,
-    img: "https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    img: "https://images.pexels.com/photos/9203497/pexels-photo-9203497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Harper",
     firstName: "Sara",
     email: "bafuv@hotmail.com",
@@ -446,7 +446,7 @@ export const userRows = [
   },
   {
     id: 15,
-    img: "https://images.pexels.com/photos/8405873/pexels-photo-8405873.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+    img: "https://images.pexels.com/photos/2878735/pexels-photo-2878735.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     lastName: "Griffin",
     firstName: "Eric",
     email: "ubi@gmail.com",
