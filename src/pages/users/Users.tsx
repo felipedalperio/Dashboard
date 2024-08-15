@@ -19,13 +19,13 @@ const columns: GridColDef[] = [
   {
     field: "firstName",
     type: "string",
-    headerName: "First name",
+    headerName: "Nome",
     width: 150,
   },
   {
     field: "lastName",
     type: "string",
-    headerName: "Last name",
+    headerName: "Sobrenome",
     width: 150,
   },
   {
@@ -37,22 +37,23 @@ const columns: GridColDef[] = [
   {
     field: "phone",
     type: "string",
-    headerName: "Phone",
+    headerName: "Telefone",
     width: 200,
   },
   {
     field: "createdAt",
-    headerName: "Created At",
+    headerName: "Criado em",
     width: 200,
     type: "string",
   },
   {
     field: "verified",
-    headerName: "Verified",
+    headerName: "Verificado",
     width: 150,
     type: "boolean",
   },
 ];
+
 
 const Users = () => {
   const [open, setOpen] = useState(false);
@@ -71,7 +72,7 @@ const Users = () => {
     <div className="users">
       <div className="info">
         <h1>Users</h1>
-        <button onClick={() => setOpen(true)}>Add New User</button>
+        <button onClick={() => setOpen(true)}>Adicionar novo Usuário</button>
       </div>
       <DataTable slug="users" columns={columns} rows={userRows} />
       {/* TEST THE API */}

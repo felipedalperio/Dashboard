@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="logo">
         <img src="logo.svg" alt="" />
-        <span>Admin</span>
+        <span>Dashboard</span>
       </div>
       <div className="icons">
         <img src="/search.svg" alt="" className="icon" />
@@ -20,7 +20,7 @@ const Navbar = () => {
             src="https://images.pexels.com/photos/8179839/pexels-photo-8179839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
             alt=""
           />
-          <span>Jane</span>
+          <span>Felipe KD</span>
         </div>
         <img src="/settings.svg" alt="" className="icon" />
       </div>

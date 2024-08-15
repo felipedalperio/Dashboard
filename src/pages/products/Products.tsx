@@ -4,12 +4,11 @@ import DataTable from "../../components/dataTable/DataTable";
 import Add from "../../components/add/Add";
 import { GridColDef } from "@mui/x-data-grid";
 import { products } from "../../data";
-
 const columns: GridColDef[] = [
   { field: "id", headerName: "ID", width: 90 },
   {
     field: "img",
-    headerName: "Image",
+    headerName: "Imagem",
     width: 100,
     renderCell: (params) => {
       return <img src={params.row.img || "/noavatar.png"} alt="" />;
@@ -18,40 +17,41 @@ const columns: GridColDef[] = [
   {
     field: "title",
     type: "string",
-    headerName: "Title",
+    headerName: "Título",
     width: 250,
   },
   {
     field: "color",
     type: "string",
-    headerName: "Color",
+    headerName: "Cor",
     width: 150,
   },
   {
     field: "price",
     type: "string",
-    headerName: "Price",
+    headerName: "Preço",
     width: 200,
   },
   {
     field: "producer",
-    headerName: "Producer",
+    headerName: "Fabricante",
     type: "string",
     width: 200,
   },
   {
     field: "createdAt",
-    headerName: "Created At",
+    headerName: "Criado Em",
     width: 200,
     type: "string",
   },
   {
     field: "inStock",
-    headerName: "In Stock",
+    headerName: "Em Estoque",
     width: 150,
     type: "boolean",
   },
 ];
+
 
 const Products = () => {
   const [open, setOpen] = useState(false);
@@ -70,7 +70,7 @@ const Products = () => {
     <div className="products">
       <div className="info">
         <h1>Products</h1>
-        <button onClick={() => setOpen(true)}>Add New Products</button>
+        <button onClick={() => setOpen(true)}>Adicionar novo produto</button>
       </div>
       <DataTable slug="products" columns={columns} rows={products} />
       {/* TEST THE API */}
